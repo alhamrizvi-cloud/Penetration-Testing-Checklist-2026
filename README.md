@@ -2,7 +2,6 @@
 
 A comprehensive penetration testing checklist for security researchers, bug bounty hunters, and aspiring penetration testers.  
 
----
 
 ## 📄 Download the Checklist
 
@@ -11,7 +10,6 @@ You can **download it here** and use it offline, print it, or check off items di
 
 [Download Checklist DOCX](https://github.com/alhamrizvi-cloud/Penetration-Testing-Checklist-2026/blob/main/Pentesting%20checklist.docx)  
 
----
 
 ## About This Checklist
 
@@ -24,7 +22,6 @@ This checklist is designed to guide you through all key phases of penetration te
 
 For a detailed, step-by-step guide, please download the DOCX file above.  
 
----
 
 ## References
 
