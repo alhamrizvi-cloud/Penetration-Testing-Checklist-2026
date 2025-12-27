@@ -9,7 +9,7 @@ A comprehensive penetration testing checklist for security researchers, bug boun
 The full penetration testing checklist is available in **DOCX format**.  
 You can **download it here** and use it offline, print it, or check off items digitally:
 
-[Download Checklist DOCX](./Penetration_Testing_Checklist.docx)  
+[Download Checklist DOCX](https://github.com/alhamrizvi-cloud/Penetration-Testing-Checklist-2026/blob/main/Pentesting%20checklist.docx)  
 
 ---
 
